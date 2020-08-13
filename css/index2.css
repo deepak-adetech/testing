@@ -1,0 +1,40 @@
+.header {
+  color: #D93025;  
+  margin-left: 10px;
+  font-size: 20px;
+  font-family: arial, sans-serif;
+  margin-top: 50px;
+} 
+.text {
+  margin-left: 10px;
+  font-size: 16px;
+  margin-top: 30px;
+  font-family: arial, sans-serif;
+} 
+
+a.fixedadv {
+  position: fixed;  
+  right: 0px; 
+  top: 20px; 
+  width: 150px;
+  color: #000000;
+}
+
+a.fixedadv:hover {
+  color: #000000;
+}
+
+#container{ 
+  display: flex; 
+  flex-wrap: wrap; 
+}
+
+.buttons{
+  margin-left: 10px;
+  margin-top: 25px; 
+}
+
+
+
+
+
